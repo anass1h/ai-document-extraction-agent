@@ -1,0 +1,16 @@
+# Environnement virtuel
+venv/
+
+# Variables d'environnement (clé API !)
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Outputs générés
+outputs/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
