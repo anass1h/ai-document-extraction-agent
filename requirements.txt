@@ -3,3 +3,5 @@ anthropic
 pandas
 python-dotenv
 pdfplumber
+reportlab
+faker
