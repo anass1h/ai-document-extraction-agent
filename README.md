@@ -15,11 +15,6 @@ Companies in manufacturing, energy, and insurance still process invoices and cla
 3. **Validate** the extraction with deterministic rules (amount consistency, date logic, missing mandatory fields) — the LLM's output is never trusted blindly
 4. **Export** results as CSV, or as a Factur-X-style XML (Cross Industry Invoice format) for invoices — a bridge toward France's structured e-invoicing requirement
 
-## Demo
-
-*(90-second video walkthrough: [link to your Loom])*
-
-![Screenshot placeholder](docs/screenshot.png)
 
 ## Why this isn't just "call an LLM and hope"
 
